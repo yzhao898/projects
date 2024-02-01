@@ -1,4 +1,4 @@
-# projects
+# Projects
 
 ## Online Retail Conversion Rate Prediction
 
